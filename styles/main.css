@@ -87,12 +87,16 @@ img {
     }
 
     .welcome {
-        color: lightgray;
+        color: black;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         margin-bottom: 20px;
         margin-left: 0;
         margin-right: 0;
         margin-top: 0;
+    }
+
+    .titles-container {
+        text-align: left;
     }
 
     .details-container {
@@ -159,13 +163,17 @@ img {
     }
 
     .welcome {
-        color: lightgray;
+        color: black;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         margin-bottom: 50px;
         margin-left: 0;
         margin-right: 0;
         margin-top: 0;
         text-align: center;
+    }
+
+    .titles-container {
+        text-align: left;
     }
 
     .details-container {
@@ -232,12 +240,16 @@ img {
     }
 
     .welcome {
-        color: lightgray;
+        color: black;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         margin-bottom: 50px;
         margin-left: 0;
         margin-right: 0;
         margin-top: 0;
+        text-align: center;
+    }
+
+    .titles-container {
         text-align: center;
     }
 
